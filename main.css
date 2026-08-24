@@ -15,5 +15,21 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: Arial;
+}
 
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #e6e6e6;
+    font-weight: bold;
+}
 
